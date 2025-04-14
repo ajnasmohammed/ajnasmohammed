@@ -68,8 +68,7 @@ I'm **[Ajnas Ck](https://www.linkedin.com/in/ajnas-mohammed)**, a Certified Ethi
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Project 1](https://github.com/)**    | Short Description |
-| **[Project 2](https://github.com/)**    | Short Description |
-| **[Project 3](https://github.com/)**    | Short Description | 
+| **[Cyber-Kill-Chain](https://github.com/ajnasmohammed/Cyber-Kill-Chain)** |To simulate and analyze the seven stages of the Cyber Kill Chain framework in order to understand attacker techniques, improve threat detection, and enhance defensive and offensive cybersecurity strategies for educational and practical use.|
+
 
 ---
