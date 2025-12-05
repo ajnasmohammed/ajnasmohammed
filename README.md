@@ -3,7 +3,7 @@
 I'm **[Ajnas Ck](https://www.linkedin.com/in/ajnas-mohammed)**, a Certified Ethical Hacker, Bug Hunter, and Security Researcher. With expertise in vulnerability assessment and ethical hacking,Protecting data in the digital age,In the immediate future, my goal is to secure a challenging role in cybersecurity.
 
 
-<a href="https://www.linkedin.com/in/ajnas-mohammed"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ajnas-ck-pentester022770304/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bdc8hkzelSNOOTJFO5ew2rg%3D%3D"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
   <summary>More about me</summary>
@@ -11,7 +11,7 @@ I'm **[Ajnas Ck](https://www.linkedin.com/in/ajnas-mohammed)**, a Certified Ethi
 - **Name**: Ajnas Ck
 - **From**: India
 - **Certified Ethical Hacker** | **Security Researcher** | **Penetration Tester**
-- currently iam fresher without professional experience, vulnerability assessment, penetration testing, and social engineering.
+- Currently iam fresher without professional experience, vulnerability assessment, penetration testing, and social engineering.
 - Continuously improving my knowledge of **Website Vulnerabilities** and **Cybersecurity Skills**.
 - I’m currently learning and exploring **advanced hacking techniques**, **networking**, and **cybersecurity certifications**.
 
